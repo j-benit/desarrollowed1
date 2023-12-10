@@ -1,0 +1,61 @@
+#encabezado {
+    width: 0%;
+    background-color: #004953;
+  }
+  #margen-izquierdo {
+    margin-left: 40px;
+  }
+  
+  #margen-derecho {
+    margin-right: 100px;
+  }
+  #tabla2 {
+    background-color: white;
+    
+  }
+  td {
+    width: 20%; 
+    margin: 50%;
+    height: 100px;
+    
+  }
+  nav ul li a {
+    margin-right: 10px;
+    color: gray;
+  }
+  nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    padding: 0;
+
+  }
+  #centrar {
+    display: flex;
+    justify-content: flex-start; /* Alinea todo a la izquierda */
+    align-items: center;
+    height: 80vh;
+    width: 100%; 
+  }
+  .div1 {
+    background-color: white;
+    color:  red;
+    width: 400px;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-start;
+    align-items: flex-start;
+    border-radius: 5px;
+    text-align: left;
+  }
+  .una {
+   
+    width: 400%; 
+    height: 400px;
+    background-color: lightgray;
+    padding: 50px;
+    
+    
+  }

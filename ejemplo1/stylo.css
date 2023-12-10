@@ -1,0 +1,33 @@
+ body {
+    background-color: aquamarine;
+ }
+ 
+ #titulo{
+    background-color: aquamarine;
+    color: red; 
+
+ }
+ 
+ 
+ .sudti {
+    background-color: aquamarine;
+    color: green;
+
+  }
+  .comentario {
+    background-color:aquamarine;
+    color: blue;
+  }
+  .id {
+    background-color: aquamarine;
+    color: blue;
+  }
+  .tit { 
+    background-color: aquamarine;
+    color: #FF0000;
+    
+  }
+  .resalto {
+    background-color: black;
+    color: white;
+  }
